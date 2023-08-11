@@ -1,5 +1,5 @@
 body {
-    margin: 10;
+    margin: 5;
     padding: 0;
     font-family: Arial, sans-serif;
     background-image: url('image/pexels-johannes-plenio-1103970.jpg');
@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: rgba(0, 0, 0, 0.5);
-    padding: 20px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -25,18 +25,26 @@ nav a {
     font-weight: bold;
   } 
 div {
-    padding: 50px; 
+    padding: 5px; 
     
  } 
 h1 {
-    background-color: rgb(236, 231, 224);
+    color: rgb(236, 231, 224);
     justify-content: center;
     text-align: center;
     padding: 5px; 
     margin: 5;
+    font-size: 30px;
     
  }  
 h2 {
+    color: white;
+}
+p {
+    color: white;
+    font-size: 15px;
+}
+ul {
     color: white;
 }
 
